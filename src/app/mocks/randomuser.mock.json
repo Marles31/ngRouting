@@ -1,0 +1,66 @@
+{
+  "results": [
+    {
+      "gender": "female",
+      "name": {
+        "title": "Mrs",
+        "first": "Indie",
+        "last": "Wang"
+      },
+      "location": {
+        "street": {
+          "number": 4975,
+          "name": "Rutherford Street"
+        },
+        "city": "Timaru",
+        "state": "Southland",
+        "country": "New Zealand",
+        "postcode": 93149,
+        "coordinates": {
+          "latitude": "52.1678",
+          "longitude": "26.6485"
+        },
+        "timezone": {
+          "offset": "-9:00",
+          "description": "Alaska"
+        }
+      },
+      "email": "indie.wang@example.com",
+      "login": {
+        "uuid": "6d717cca-e3dc-4f29-8ab1-df7a0084322e",
+        "username": "bigswan965",
+        "password": "revoluti",
+        "salt": "m2X8kKHN",
+        "md5": "6d8c4cc0302561d4f59833d146cb22ed",
+        "sha1": "742bdb09cbb2bc2d23093a0a99d8c889edcf1e2c",
+        "sha256": "52f6c053e0fe3b0eed88d09477af0136eb9b5e5f24d92277724cd676bffd510b"
+      },
+      "dob": {
+        "date": "1971-01-12T08:30:51.501Z",
+        "age": 52
+      },
+      "registered": {
+        "date": "2015-02-04T12:47:47.383Z",
+        "age": 8
+      },
+      "phone": "(052)-111-8045",
+      "cell": "(902)-423-0244",
+      "id": {
+        "name": "",
+        "value": null
+      },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/women/3.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/women/3.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/women/3.jpg"
+      },
+      "nat": "NZ"
+    }
+  ],
+  "info": {
+    "seed": "e8dcc35a1a981ae1",
+    "results": 1,
+    "page": 1,
+    "version": "1.4"
+  }
+}
